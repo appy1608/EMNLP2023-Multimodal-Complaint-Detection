@@ -9,4 +9,4 @@ The original CESAMARD dataset released in [Sentiment and Emotion-aware Multi-mod
 
 **MCD Dataset**
 
-We manually annotate and extend this multi-modal CESAMARD dataset. Each record in the MCD dataset consists of the page URL, domain, image URL, review title, review text, and their corresponding annotated complaint, sentiment, and emotion labels. Another file consists of the images corresponding to the dataset records. Overall there are 4931 non-complaint reviews and 2959 complaint reviews in the dataset.
+We manually annotate and extend this multi-modal CESAMARD dataset. Each record in the MCD dataset consists of the page URL, domain, image URL, review title, review text, and their corresponding annotated complaint, sentiment, and emotion labels.  Overall there are 4931 non-complaint reviews and 2959 complaint reviews in the dataset.
