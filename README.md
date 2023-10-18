@@ -1,7 +1,7 @@
 # Multimodal-Complaint-Detection
 Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification
 
-This repository contains the dataset and code for our EMNLP 2022 paper: Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification
+This repository contains the dataset and code for our EMNLP 2023 paper: Federated Meta-Learning for Emotion and Sentiment Aware Multi-modal Complaint Identification
 
 **CESAMARD Dataset**
 
